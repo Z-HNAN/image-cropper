@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main"
+   ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "mpvue-image-cropper",
+    "navigationBarTextStyle": "black"
+  }
+  
+  
+}
